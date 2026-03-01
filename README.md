@@ -50,6 +50,24 @@ streamlit run app.py
         └── logs/                 # 训练日志
 ```
 
+## 实验结果
+
+### 训练指标曲线
+
+![训练结果](images/results.png)
+
+### 混淆矩阵
+
+![混淆矩阵](images/confusion_matrix.png)
+
+### 验证集标注
+
+![验证集标注](images/val_batch1_labels.jpg)
+
+### 验证集预测效果
+
+![验证集预测](images/val_batch2_pred.jpg)
+
 ## 适用场景
 
 - 智能交通监控与分析
