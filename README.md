@@ -1,5 +1,8 @@
 # YOLOv8 人车目标检测系统
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+
+
 基于 YOLOv8 和 Faster R-CNN 的人车目标检测系统，集成 Streamlit Web 界面，支持图片上传检测、视频检测和实时摄像头检测，并提供多模型性能对比分析。
 
 ## 痛点与目的
