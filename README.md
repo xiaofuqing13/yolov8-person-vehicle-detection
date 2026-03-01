@@ -1,4 +1,4 @@
-﻿# YOLOv8 人车目标检测系统
+# YOLOv8 人车目标检测系统
 
 基于 YOLOv8 和 Faster R-CNN 的人车目标检测系统，集成 Streamlit Web 界面，支持图片上传检测、视频检测和实时摄像头检测，并提供多模型性能对比分析。
 
@@ -84,6 +84,6 @@ streamlit run app.py
 | 深度学习 | PyTorch, ultralytics |
 | 图像处理 | OpenCV, Pillow |
 
-## License
+## 许可证
 
-MIT License
+MIT 许可证
