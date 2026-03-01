@@ -1,0 +1,36 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+.venv/
+
+# PyTorch
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Data
+1005/yolov8_qianduan/renche/
+1005/yolov8_qianduan/train/
+1005/frcnn/logs/
+
+# Zip
+*.zip
+*.rar
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.idea/
+.vscode/
+
+# Docs
+*.docx
+
+# Jupyter
+.ipynb_checkpoints/

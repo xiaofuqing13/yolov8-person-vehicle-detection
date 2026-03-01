@@ -1,0 +1,7 @@
+#python版本不强制要求，但最好为3.10
+
+streamlit==1.26.0
+
+#cpu环境(若虚拟环境中无pytorch,ultralytics底层自动依赖下载cpu版本的torch,如对项目的检测速度有要求请安装gpu版本的torch)
+ultralytics
+
